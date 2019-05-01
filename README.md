@@ -1,3 +1,12 @@
+Actual webapage:
+
+https://confusionserver-75420.firebaseapp.com/
+
+you can use
+id:admin@confusion.net
+pw:password
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
